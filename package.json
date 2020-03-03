@@ -1,0 +1,20 @@
+{
+    "name": "liri-node-app",
+    "version": "1.0.0",
+    "description": "Liri is a Node.js app that depends on user input from the command line\r Integrated Twitter, Spotify, and OMDb APIs return information based in specific user input\r The following specific commands will return searc results from the API’s:",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mjimenez05/liri-node-app.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Mjimenez05/liri-node-app/issues"
+    },
+    "homepage": "https://github.com/Mjimenez05/liri-node-app#readme"
+}
