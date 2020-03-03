@@ -1,6 +1,6 @@
 //spotify
 require("dotenv").config();
-var keys = require("./keys.js");
+var keys = require("./key.js");
 var spotify = new Spotify(keys.spotify);
 var Spotify = require("node-spotify-api");
 //info for the date formatting
