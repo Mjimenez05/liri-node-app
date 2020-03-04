@@ -1,6 +1,6 @@
 # Description
 
-Liri is a Node.js app that depends on user input from the command line
+Liri is a Node.js app that depends on user input from the command line.
 Integrated Spotify, and OMDb APIs return information based in specific user input
 The following specific commands will return searc results from the API’s:
 -----------------------------------------------------------------------------
@@ -12,16 +12,16 @@ The following specific commands will return searc results from the API’s:
 
 # Technologies Used
 
-Node.js
-JavaScript
-Spotify API (via spotify npm module)
+Node.js, 
+JavaScript, 
+Spotify API (via spotify npm module), 
 OMDb API (via request npm module)
 
 # links used 
 
-. Axios: https://www.npmjs.com/package/axios
-. Node-Spotify-API: https://www.npmjs.com/package/node-spotify-api
-. DotEnv: https://www.npmjs.com/package/dotenv
+1. Axios: https://www.npmjs.com/package/axios
+2. Node-Spotify-API: https://www.npmjs.com/package/node-spotify-api
+3. DotEnv: https://www.npmjs.com/package/dotenv
 
 # Image of homework working
 
