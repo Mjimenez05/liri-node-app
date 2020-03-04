@@ -20,5 +20,4 @@ Axios: https://www.npmjs.com/package/axios
 Node-Spotify-API: https://www.npmjs.com/package/node-spotify-api
 DotEnv: https://www.npmjs.com/package/dotenv
 
-
-http://www.omdbapi.com/?apikey=[258eb148]&
+![Image of hw](https://github.com/Mjimenez05/liri-node-app/blob/master/images/gitBash_Hw.png)
